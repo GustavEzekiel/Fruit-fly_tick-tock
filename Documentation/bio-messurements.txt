@@ -1,0 +1,23 @@
+En bacterias:
+have revealed that
+a characteristic transcription rate is tens of nucleotides per second.
+Using 40 nucleotides/s, we estimate that the time to make
+a typical transcript is roughly 25 s.
+
+An
+mRNA transcription rate of 20 min−1
+and a decay rate of 0.67 min−1
+molecule−1 were used
+
+tasa de traducción
+3 × 105 amino acids/s
+
+The number of ribosomes at work on synthesizing these new
+proteins is roughly 20,000, which implies that the rate per
+ribosome is 15 amino acids/s, while the measured value is
+25 amino acids incorporated per second. These numbers also
+imply that the mean time to synthesize a typical protein is
+roughly 20 s.
+
+En cuanto a la vida media de los mensajeros estos tienen una distribución
+de poisson con media = 20 min para levaduras. 

@@ -1,0 +1,5 @@
+# here it goes everything (in path format) to be ignore when the command "git add ." is executed.
+/00-Data
+/00-Papers
+.Rproj.user
+.Rhistory
