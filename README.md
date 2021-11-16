@@ -6,6 +6,6 @@ Mathematical and statistical model of fruit fly core circadian clock molecules.
 
 ## The system
 
-![model diagram](Documentation/Logic diagram of the model.png)
+![model diagram](/Documentation/Logic diagram of the model.png)
 
  
