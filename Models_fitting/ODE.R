@@ -1,5 +1,5 @@
-# Fruit-fly-tik-tok.
-# by Guzkiel.
+# Fruit-fly_tik-tok.
+# By Guzkiel.
 
 # ODE
 

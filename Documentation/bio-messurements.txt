@@ -1,4 +1,4 @@
-En bacterias:
+In bacteria:
 have revealed that
 a characteristic transcription rate is tens of nucleotides per second.
 Using 40 nucleotides/s, we estimate that the time to make
@@ -9,7 +9,7 @@ mRNA transcription rate of 20 min−1
 and a decay rate of 0.67 min−1
 molecule−1 were used
 
-tasa de traducción
+translation rate:
 3 × 105 amino acids/s
 
 The number of ribosomes at work on synthesizing these new
@@ -19,5 +19,4 @@ ribosome is 15 amino acids/s, while the measured value is
 imply that the mean time to synthesize a typical protein is
 roughly 20 s.
 
-En cuanto a la vida media de los mensajeros estos tienen una distribución
-de poisson con media = 20 min para levaduras. 
+In regard to the mean life of the mesengers, these have a poisson distribution with a mean = 20 for geasts.
