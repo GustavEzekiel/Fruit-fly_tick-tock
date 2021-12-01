@@ -11,10 +11,10 @@ Mathematical and statistical model of fruit fly core circadian clock molecules. 
 [<img align="center" alt="Logic diagram of the model" src="https://github.com/GustavEzekiel/Fruit-fly_tik-tok/blob/main/Documentation/Logic%20diagram%20of%20the%20model.png?raw=true" />]
 
 
-### Equations of the model (ODEs)
+### Equations of the model 
 
-#### Deterministic part
- [<img align="center" alt="ODEs" width="400px" src="https://github.com/GustavEzekiel/Fruit-fly_tik-tok/blob/main/Documentation/ODEs.png?raw=true" />]
+#### Deterministic part (ODEs)
+ [<img align="center" alt="ODEs" width="800px" src="https://github.com/GustavEzekiel/Fruit-fly_tik-tok/blob/main/Documentation/ODEs.png?raw=true" />]
 
 
 #### Stocastic part
