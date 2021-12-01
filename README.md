@@ -16,7 +16,7 @@ Mathematical and statistical model of fruit fly core circadian clock molecules. 
 #### Deterministic part (ODEs)
  [<img align="center" alt="ODEs" width="650px" src="https://github.com/GustavEzekiel/Fruit-fly_tik-tok/blob/main/Documentation/ODEs.png?raw=true" />]
 
- ##### 		Where:
+ Parameters description:
 
     • α = Maximum transcription rate (nucleotides / hour)
     • β = Maximum enzymatic degradation rate (nucleotides / hour)
@@ -33,5 +33,5 @@ Mathematical and statistical model of fruit fly core circadian clock molecules. 
 
  [<img align="center" alt="ODEs" src="https://github.com/GustavEzekiel/Fruit-fly_tik-tok/blob/main/Documentation/Stocastic-part.png?raw=true" />]
 
- ##### 		where:
+Parameters description:
 
