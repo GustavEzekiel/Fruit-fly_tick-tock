@@ -14,7 +14,7 @@ Mathematical and statistical model of fruit fly core circadian clock molecules. 
 ### Equations of the model 
 
 #### Deterministic part (ODEs)
- [<img align="center" alt="ODEs" width="800px" src="https://github.com/GustavEzekiel/Fruit-fly_tik-tok/blob/main/Documentation/ODEs.png?raw=true" />]
+ [<img align="center" alt="ODEs" width="650px" src="https://github.com/GustavEzekiel/Fruit-fly_tik-tok/blob/main/Documentation/ODEs.png?raw=true" />]
 
 
 #### Stocastic part
@@ -24,4 +24,15 @@ Mathematical and statistical model of fruit fly core circadian clock molecules. 
 
 
 ### Parameters description
+
+    • α = Maximum transcription rate (nucleotides / hour)
+    • β = Maximum enzymatic degradation rate (nucleotides / hour)
+    • Jcy, c, T, p = Scalars for maximum transcription rate of each mRNA.
+    • Kcy, c, T, p = Scalars for the effect of mRNA concentration on degradative enzymatic action.
+    • mcy, c, T, p = Hill constant for each mRNA.
+    • ntCyc =  Cycle (CyC) DNA gen length in nucleotides (nt). 
+    • ntClk = Clock (Clk) DNA gen length in nt.
+    • ntTim = Timeless (Tim) DNA gen lenght in nt. 
+    • NtPer = Period (per) DNA gen length in nt. 
+
 
