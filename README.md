@@ -32,3 +32,5 @@ Mathematical and statistical model of *D. melanogaster* core circadian clock mol
 > #### Stocastic part
 
  [<img align="center" alt="ODEs" width="250px" src="https://github.com/GustavEzekiel/Fruit-fly_tik-tok/blob/main/Documentation/Stocastic-part.png?raw=true" />]
+>
+>> Parameters description:
