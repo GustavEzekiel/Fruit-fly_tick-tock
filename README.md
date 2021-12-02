@@ -2,7 +2,7 @@
 [readme still under construction]
 
 ## Introduction
-Mathematical and statistical model of fruit fly core circadian clock molecules. The main purpuse of this modeling is to fit ODEs that represent circadian oscilation of mRNA levels of clock components over single-cell RNAseq (scRNA-seq) data of clock neurons. Looking for diferences in parameters of the model across different neuron clusters and conditions represented in the scRNA-seq data.
+Mathematical and statistical model of *D. melanogaster* core circadian clock molecules. The main purpuse of this modeling is to fit ODEs that represent circadian oscilation of mRNA levels of clock components over single-cell RNAseq (scRNA-seq) data of clock neurons. Looking for diferences in parameters of the model across different neuron clusters and conditions represented in the scRNA-seq data.
 
 
 ## The system
@@ -13,10 +13,10 @@ Mathematical and statistical model of fruit fly core circadian clock molecules. 
 
 ### Equations of the model 
 
-#### Deterministic part (ODEs)
+> #### Deterministic part (ODEs)
  [<img align="center" alt="ODEs" width="650px" src="https://github.com/GustavEzekiel/Fruit-fly_tik-tok/blob/main/Documentation/ODEs.png?raw=true" />]
-
- Parameters description:
+>
+>> Parameters description:
 
     • α = Maximum transcription rate (nucleotides / hour)
     • β = Maximum enzymatic degradation rate (nucleotides / hour)
@@ -29,9 +29,13 @@ Mathematical and statistical model of fruit fly core circadian clock molecules. 
     • ntPer = Period (per) DNA gen length in nt. 
 
 
-#### Stocastic part
+> #### Stocastic part
 
- [<img align="center" alt="ODEs" src="https://github.com/GustavEzekiel/Fruit-fly_tik-tok/blob/main/Documentation/Stocastic-part.png?raw=true" />]
+ [<img align="center" alt="ODEs" width="250px" src="https://github.com/GustavEzekiel/Fruit-fly_tik-tok/blob/main/Documentation/Stocastic-part.png?raw=true" />]
+>
+>> Parameters description:
 
-Parameters description:
+>> • $Cyc_{obs}, Clk_{obs}, Tim_{obs}, Tim_{obs} $ Normalized ammount of each mRNA in a given moment of the day (t)
+>> • $Cyc, Clk, Tim, Tim$ Ammount of each mRNA according to the model in a given moment of the day (t)
+>> • $\sigma$ Desviation of the normal distribution.
 
