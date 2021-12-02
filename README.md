@@ -35,8 +35,14 @@ Mathematical and statistical model of *D. melanogaster* core circadian clock mol
 >
 >> Parameters description:
 
-    • $Cyc_{obs}, Clk_{obs}, Tim_{obs}, Tim_{obs} $ Normalized ammount of each mRNA in a given moment of the day (t)
+    • Cyc<sub>obs;, Clk_{obs}, Tim_{obs}, Tim_{obs} $ Normalized ammount of each mRNA in a given moment of the day (t)
     • $Cyc, Clk, Tim, Tim$ Ammount of each mRNA according to the model in a given moment of the day (t)
-    • $\sigma$ Desviation of the normal distribution.
+    • &sigma Desviation of the normal distribution.
 
 $hello$
+&sigma 
+&psi
+
+ h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+&theta;
+Cyc<sub>obs;
