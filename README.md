@@ -1,4 +1,4 @@
-# Fruit-fly_tik-tok 
+# Fruit-fly_tick-tock 
 [readme still under construction]
 
 ## Introduction
